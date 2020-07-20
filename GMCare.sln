@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMCare", "GMCare\GMCare.csproj", "{50334CAC-F3BA-460A-83E4-245E78D81B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMCare.Tests", "GMCare.Tests\GMCare.Tests.csproj", "{8BDBFC40-FF8B-489A-A0CF-EC6BEFA3D64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50334CAC-F3BA-460A-83E4-245E78D81B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50334CAC-F3BA-460A-83E4-245E78D81B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50334CAC-F3BA-460A-83E4-245E78D81B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50334CAC-F3BA-460A-83E4-245E78D81B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BDBFC40-FF8B-489A-A0CF-EC6BEFA3D64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDBFC40-FF8B-489A-A0CF-EC6BEFA3D64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDBFC40-FF8B-489A-A0CF-EC6BEFA3D64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDBFC40-FF8B-489A-A0CF-EC6BEFA3D64B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
